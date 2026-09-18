@@ -1,0 +1,20 @@
+{
+  "C++ Main Template": {
+    "prefix": "main",
+    "body": [
+      "#include<iostream>",
+      "using namespace std;",
+      "",
+      "int main(){",
+      "    $0",
+      "    return 0;",
+      "}"
+    ],
+    "description": "C++ main function template"
+},
+"configurations": [
+    
+
+
+]
+}
